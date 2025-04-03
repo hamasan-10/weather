@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 streamlit
-=======
-streamlit
->>>>>>> a964357 (first commit)
 pandas
 requests
-datetime
